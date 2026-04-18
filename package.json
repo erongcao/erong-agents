@@ -116,12 +116,6 @@
         "report-distribution-agent"
       ]
     },
-    "pricing": {
-      "standard": {
-        "price": 1999,
-        "currency": "CNY",
-        "description": "全部 49 个 Agent + 编排器"
-      },
       "department": {
         "price": 499,
         "currency": "CNY",
